@@ -1,8 +1,6 @@
 # Приложение, показывающее отображение цветов для людей с разными формами цветового зрения
 Ссылка: https://remilee.github.io/color-blind-info/
 
-![img.png](img.png)
-
 ## Техстек: 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
