@@ -9,6 +9,6 @@
 
 Из расширений используется ```React-dom, react-color```
 
-Основной код приложения: ```App.js```
+Основной код приложения: [App.js](https://github.com/Remilee/color-blind-info/blob/master/src/App.js)
 
-Стили: ```ColorBlind.css```
+Стили: [ColorBlind.css](https://github.com/Remilee/color-blind-info/blob/master/src/ColorBlind.css)
